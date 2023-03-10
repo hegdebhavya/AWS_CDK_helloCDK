@@ -1,4 +1,6 @@
-#In-Class Assignment - AWS CDK App
+# In-Class Assignment - AWS CDK App
+
+Team Name: Cloud Bloom <br/>
 
 Team Members <br/>
 Bhavya Hegde <br/>
