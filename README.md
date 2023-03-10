@@ -1,5 +1,13 @@
+#In-Class Assignment - AWS CDK App
 
-# Welcome to your CDK Python project!
+Team Members <br/>
+Bhavya Hegde <br/>
+Blessy Dickson Daniel Moses <br/>
+Darshini Venkatesha Murthy Nag <br/>
+Sirisha Polisetty <br/>
+
+
+# Welcome to the CDK Python project!
 
 This is a blank project for CDK development with Python.
 
